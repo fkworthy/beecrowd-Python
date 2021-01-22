@@ -1,1 +1,1 @@
-# www.urionlinejudge.com_Python
+# www.urionlinejudge.com Python
