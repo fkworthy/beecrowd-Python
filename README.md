@@ -1,1 +1,1 @@
-# URI Online Judge Programming With Python
+# URI-Online-Judge-Python
