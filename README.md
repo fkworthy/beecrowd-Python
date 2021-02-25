@@ -1,1 +1,1 @@
-# www.urionlinejudge.com Python
+# URI Online Judge Programming With Python
