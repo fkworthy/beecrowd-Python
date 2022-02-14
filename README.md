@@ -1,1 +1,1 @@
-# URI-Online-Judge-Python
+# beecrowd-Python
